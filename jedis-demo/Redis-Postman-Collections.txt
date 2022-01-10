@@ -1,0 +1,25 @@
+
+
+***************
+If you are not familiar with postman, the postman is just a tool to make rest calls. Using postman, you can share the API calls with others.
+Below, I'm sharing four collections for the lessons in this section. 
+How to import these collections to your postman:
+1- download postman from the internet.
+2- click on the file menu, select Import.
+3- From the pop up select Import From Link tab. 
+4- paste any of the below URLs and hit import.
+5- on the upper left side click on the Collections tab, then you will find all the APIs in that collection.
+************
+//Hash APIs
+https://www.getpostman.com/collections/dae18ed8fb0dddb293ec
+
+//Redis List APIs
+https://www.getpostman.com/collections/c1800d46cab9dcbb0869
+
+//Redis Set APIS
+https://www.getpostman.com/collections/12ef5be52ab59d33c779
+
+//String
+https://www.getpostman.com/collections/263fbefafb9605b21235
+
+
